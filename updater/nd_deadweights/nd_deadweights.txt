@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "21fb448"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_deadweights.smx"
+    "Plugin" "Path_SM/translations/nd_dead_weight.phrases.txt"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "a7ca478"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/dontshout.smx"
+  }
+}

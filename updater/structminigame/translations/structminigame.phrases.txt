@@ -1,0 +1,123 @@
+"Phrases"
+{
+	//!settings feature name
+	"Cookie Structure Killings"
+	{
+		"en"		"Structure Killings"
+	}
+	
+	//Building Names
+	"Command Bunker"
+	{
+		"en"		"the Command Bunker"
+	}
+	"MG Turret"
+	{
+		"en"		"a Machine Gun Turret"
+	}
+	"Transport Gate"
+	{
+		"en"		"a Transport Gate"
+	}
+	"Power Station"
+	{
+		"en"		"a Power Station"
+	}
+	"Wireless Repeater"
+	{
+		"en"		"a Wireless Repeater"
+	}
+	"Relay Tower"
+	{
+		"en"		"a Relay Tower"
+	}
+	"Supply Station"
+	{
+		"en"		"a Supply Station"
+	}
+	"Assembler"
+	{
+		"en"		"an Assembler"
+	}
+	"Armory"
+	{
+		"en"		"an Armory"
+	}
+	"Artillery"
+	{
+		"en"		"an Artillery"
+	}
+	"Radar Station"
+	{
+		"en"		"a Radar Station"
+	}
+	"Flamethrower Turret"
+	{
+		"en"		"a Flamethrower Turret"
+	}
+	"Sonic Turret"
+	{
+		"en"		"a Sonic Turret"
+	}
+	"Rocket Turret"
+	{
+		"en"		"a Rocket Turret"
+	}
+	"Wall"
+	{
+		"en"		"a Wall"
+	}
+	"Barrier"
+	{
+		"en"		"a Barrier"
+	}
+	
+	"Building Destoryed"
+	{
+		//{1} = team colour (always keep this first)
+		//{2} = Player's name who destoryed the structure
+		//{3} = The name of the structure destoryed (translated above)
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}{2} destroyed {3}"
+	}
+	
+	
+	//Advantage Translations
+	"Empire"
+	{
+		"en"		"Empire"
+	}
+	"Consort"
+	{
+		"en"		"Consortium"
+	}
+	
+	//This message is a complicated mess, so read carefully
+	"Advantage Message"
+	{
+		//{1} changes {2} to the team colour
+		//{2} = Is the player's name
+		
+		//{3} changes the 'just gave' colour to green
+		
+		//{4} changes {5} to the team colour
+		//{5} = Is etheir "Empire" or "Consort" as translated above
+		
+		//{6} changes 'the advantage' colour to green
+		
+		//Ex1. Vertex just gave Consortium the advantage! -without colours
+		//Ex2. {blue} Vertex {green} just gave {blue} Consortium {green} the advantage!
+		//If required, change the number order to suit your needs
+		
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s},{6:s}"
+		"en"		"{1}{2} {3}just gave {4}{5} {6}the advantage"
+	}
+	
+	//This message only uses the phrase "Empire" or "Consort"
+	"Advantage Center"
+	{
+		//{1} = Is etheir "Empire" or "Consort" as translated above
+		"#format"	"{1:s}"
+		"en"		"Advantage - {1}"
+	}
+}

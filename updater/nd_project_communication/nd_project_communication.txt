@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "fa1339a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_project_communication.smx"
+    "Plugin" "Path_SM/translations/nd_project_communication.phrases.txt"
+  }
+}

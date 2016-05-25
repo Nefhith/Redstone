@@ -1,0 +1,86 @@
+"Phrases"
+{
+	/* Language based features */
+	"Team Languages"
+	{
+		//{1} = A list of team languages
+		"#format"	"{1:s}"
+		"en"		"Team Languages: {1}"
+	}
+	"Commander Language"
+	{
+		//{1} = the comander's language
+		"#format"	"{1:s}"
+		"en"		"The commander's game client language is {1}."
+	}
+	
+	/* Building request messages */
+	"Simple Building Request"
+	{
+		//{1} = Player's Name
+		//{2} = Building Name from structminigame.phrases
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} is requesting {2}"
+	}
+	"Extended Building Request"
+	{
+		//{1} = Player's Name
+		//{2} = Building Name from structminigame.phrases
+		//{3} = Location Name (see bellow)
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1} is requesting {2} at {3}"
+	}
+	
+	//Capture request message
+	"Capture Request"
+	{
+		//{1} = Player's name
+		//{2} = Resource Name (see bellow)
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} says capture {2}"
+	}
+	
+	/* Plugin Messages */
+	"Translate Tag"
+	{
+		"en"		"(Translator)"
+	}
+	"No Translate Keyword"
+	{
+		"en"		"No translation keyword found."
+	}
+	
+	/* Common phrases */
+	"Roof"
+	{
+		"en"		"the Rooftop"
+	}
+	"Base"
+	{
+		"en"		"Base"
+	}
+	"Prim"
+	{
+		"en"		"Primary"
+	}
+	"Pos"
+	{
+		"en"		"their Standing Positon"
+	}
+	"East Sec"
+	{
+		"en"		"Eastern Secondary"
+	}
+	"West Sec"
+	{
+		"en"		"Western Secondary"
+	}
+	"Base Tert"
+	{
+		"en"		"Base Tertiary"
+	}
+	"Tert"
+	{
+		"en"		"Tertiaries"
+	}
+}

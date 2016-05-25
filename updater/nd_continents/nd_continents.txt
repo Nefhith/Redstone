@@ -1,0 +1,14 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e4983f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_continents.smx"
+    "Plugin" "Path_SM/translations/de/nd_continents.phrases.txt"
+    "Plugin" "Path_SM/translations/es/nd_continents.phrases.txt"
+    "Plugin" "Path_SM/translations/nd_continents.phrases.txt"
+    "Plugin" "Path_SM/translations/ru/nd_continents.phrases.txt"
+  }
+}

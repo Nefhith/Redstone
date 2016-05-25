@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "7ddf2df"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_build_shadow_fix.smx"
+  }
+}

@@ -1,0 +1,14 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e4983f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_player_warnings.smx"
+    "Plugin" "Path_SM/translations/de/nd_player_warnings.phrases.txt"
+    "Plugin" "Path_SM/translations/es/nd_player_warnings.phrases.txt"
+    "Plugin" "Path_SM/translations/nd_player_warnings.phrases.txt"
+    "Plugin" "Path_SM/translations/ru/nd_player_warnings.phrases.txt"
+  }
+}

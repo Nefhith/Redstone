@@ -1,0 +1,119 @@
+﻿"Phrases"
+{
+	"Cookie Structure Killings"
+	{
+		"ru"		"Убито структурами"
+	}
+	
+	//Building Names
+	"Command Bunker"
+	{
+		"ru"		"Командный бункер"
+	}
+	"MG Turret"
+	{
+		"ru"		"Пулемётная установка"
+	}
+	"Transport Gate"
+	{
+		"ru"		"Телепорт"
+	}
+	"Power Station"
+	{
+		"ru"		"Генератор"
+	}
+	"Wireless Repeater"
+	{
+		"ru"		"Репитер"
+	}
+	"Relay Tower"
+	{
+		"ru"		"Проводник энергии"
+	}
+	"Supply Station"
+	{
+		"ru"		"Боеприпасы"
+	}
+	"Assembler"
+	{
+		"ru"		"Завод"
+	}
+	"Armory"
+	{
+		"ru"		"Оружейная"
+	}
+	"Artillery"
+	{
+		"ru"		"Артиллерия"
+	}
+	"Radar Station"
+	{
+		"ru"		"Радар"
+	}
+	"Flamethrower Turret"
+	{
+		"ru"		"Огнемётная установка"
+	}
+	"Sonic Turret"
+	{
+		"ru"		"Огнемётная установка"
+	}
+	"Rocket Turret"
+	{
+		"ru"		"Ракетная установка"
+	}
+	"Wall"
+	{
+		"ru"		"Стена"
+	}
+	"Barrier"
+	{
+		"ru"		"Барьер"
+	}
+	
+	"Building Destoryed"
+	{
+		//{1} = team colour (always keep this first)
+		//{2} = Player's name who destoryed the structure
+		//{3} = The name of the structure destoryed (translated above)
+		"ru"		"{1}{2} уничтожил {3}"
+	}
+	
+	
+	//Advantage Translations
+	"Empire"
+	{
+		"ru"		"Империя"
+	}
+	"Consortium"
+	{
+		"ru"		"Консирициум"
+	}
+	
+	//This message is a complicated mess, so read carefully
+	"Advantage Message"
+	{
+		//{1} changes {2} to the team colour
+		//{2} = Is the player's name
+		
+		//{3} changes the 'just gave' colour to green
+		
+		//{4} changes {5} to the team colour
+		//{5} = Is etheir "Empire" or "Consort" as translated above
+		
+		//{6} changes 'the advantage' colour to green
+		
+		//Ex1. Vertex just gave Consortium the advantage! -without colours
+		//Ex2. {blue} Vertex {green} just gave {blue} Consortium {green} the advantage!
+		//If required, change the number order to suit your needs
+		
+		"ru"		"{1}{2} {3}дал {6}преимущество команде {4}{5}"
+	}
+	
+	//This message only uses the phrase "Empire" or "Consort"
+	"Advantage Center"
+	{
+		//{1} = Is etheir "Empire" or "Consort" as translated above
+		"ru"		"Преимущество - {1}"
+	}
+}

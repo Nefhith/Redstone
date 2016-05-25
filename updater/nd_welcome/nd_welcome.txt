@@ -1,0 +1,16 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e4983f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_welcome.smx"
+    "Plugin" "Path_SM/translations/cze/nd_welcome.phrases.txt"
+    "Plugin" "Path_SM/translations/de/nd_welcome.phrases.txt"
+    "Plugin" "Path_SM/translations/es/nd_welcome.phrases.txt"
+    "Plugin" "Path_SM/translations/fr/nd_welcome.phrases.txt"
+    "Plugin" "Path_SM/translations/nd_welcome.phrases.txt"
+    "Plugin" "Path_SM/translations/nl/nd_welcome.phrases.txt"
+  }
+}

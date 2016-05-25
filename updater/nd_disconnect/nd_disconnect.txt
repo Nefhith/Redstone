@@ -1,0 +1,14 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e4983f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_disconnect.smx"
+    "Plugin" "Path_SM/translations/de/nd_disconnect.phrases.txt"
+    "Plugin" "Path_SM/translations/es/nd_disconnect.phrases.txt"
+    "Plugin" "Path_SM/translations/nd_disconnect.phrases.txt"
+    "Plugin" "Path_SM/translations/ru/nd_disconnect.phrases.txt"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e6893a1"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/updater.smx"
+  }
+}

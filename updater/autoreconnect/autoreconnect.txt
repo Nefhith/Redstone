@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "dc564db"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/autoreconnect.smx"
+  }
+}

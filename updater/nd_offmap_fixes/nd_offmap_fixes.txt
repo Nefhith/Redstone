@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "d75d8f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_offmap_fixes.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "be1a869"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_ontakedamage_fix.smx"
+  }
+}
