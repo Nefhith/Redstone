@@ -2,12 +2,12 @@
 {	
 	"Balancer Not Run"
 	{	
-		"es"		"Balanceador inicial No puede ejecutarse por falta de jugadores"
+		"es"		"Balanceo inicial No puede ejecutarse por falta de jugadores"
 	}
 	
 	"Balancer Off"
 	{
-		"es"		"Balanceador de equipos actualmente apagado"
+		"es"		"Balanceo de equipos actualmente deshabilitado"
 	}
 
 	"Waiting"
@@ -17,6 +17,6 @@
 	
 	"Please Wait"
 	{
-		"es"		"Por favor espere"
+		"es"		"Por favor espera"
 	}	
 }
