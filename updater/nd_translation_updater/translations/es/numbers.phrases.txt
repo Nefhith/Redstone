@@ -2,50 +2,50 @@
 {
 	"one"
 	{
-		"es"		"one"
+		"es"		"uno"
 	}
 	"two"
 	{
-		"es"		"two"
+		"es"		"dos"
 	}
 	"three"
 	{
-		"es"		"three"
+		"es"		"tres"
 	}
 	"four"
 	{
-		"es"		"four"
+		"es"		"cuatro"
 	}
 	"five"
 	{
-		"es"		"five"
+		"es"		"cinco"
 	}
 	"six"
 	{
-		"es"		"six"
+		"es"		"seis"
 	}
 	"seven"
 	{
-		"es"		"seven"
+		"es"		"siete"
 	}
 	"eight"
 	{
-		"es"		"eight"
+		"es"		"ocho"
 	}
 	"nine"
 	{
-		"es"		"nine"
+		"es"		"nueve"
 	}
 	"ten"
 	{
-		"es"		"ten"
+		"es"		"diez"
 	}
 	"eleven"
 	{
-		"es"		"eleven"
+		"es"		"once"
 	}
 	"twelve"
 	{
-		"es"		"twelve"
+		"es"		"doce"
 	}
 }
