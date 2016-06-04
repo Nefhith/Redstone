@@ -7,13 +7,13 @@
 	
 	"Spawn Bug"
 	{
-		"es"		"Change class and select another spawn point. If required, press enter to open the spawn menu"
+		"es"		"Cambia de clase y selecciona otro punto de reaparición. Si es necesario, pulsa intro para abrir el menú de reaparición"
 	}
 	
 	//Notice: If the numbers.phrases file isn't translated, it will fill {1} with English
 	//{1} is not a number like 1,2,3 etc, (improper grammer) instead it's one,two,three etc.
 	"Suicide Request"
 	{
-		"es"		"Your suicide request will complete in {1} seconds."
+		"es"		"Tu petición de suicidio se completará en {1} segundos."
 	}
 }
